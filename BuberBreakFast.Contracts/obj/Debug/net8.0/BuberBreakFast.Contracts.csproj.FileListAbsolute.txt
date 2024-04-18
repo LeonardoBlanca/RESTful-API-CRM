@@ -1,0 +1,11 @@
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net8.0\BuberBreakFast.Contracts.deps.json
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net8.0\BuberBreakFast.Contracts.dll
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net8.0\BuberBreakFast.Contracts.pdb
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.AssemblyInfoInputs.cache
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.AssemblyInfo.cs
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.csproj.CoreCompileInputs.cache
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.dll
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\refint\BuberBreakFast.Contracts.dll
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\BuberBreakFast.Contracts.pdb
+G:\Projetos Programação\C#\freeCodeCamp\IndustryLevelAPI\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net8.0\ref\BuberBreakFast.Contracts.dll
