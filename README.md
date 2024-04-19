@@ -1,3 +1,3 @@
 # RESTful API
 
-WIP (Work in Progres)
+WIP (Work in Progress)
